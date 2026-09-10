@@ -1,0 +1,4 @@
+C:/Users/8261536/MyCMakeProject/build/CMakeFiles/print.dir
+C:/Users/8261536/MyCMakeProject/build/CMakeFiles/main.dir
+C:/Users/8261536/MyCMakeProject/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/8261536/MyCMakeProject/build/CMakeFiles/ZERO_CHECK.dir
